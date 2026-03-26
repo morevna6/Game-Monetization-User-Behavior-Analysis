@@ -24,6 +24,6 @@ This project focuses on understanding how users generate revenue in games and ho
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Excel
 - Google Sheets
